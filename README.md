@@ -32,31 +32,43 @@ Pinch with thumb (tip 4 → tip 8 distance) triggers a key press
 Pressed key is rendered and text appears above keyboard
 
 ## Project Structure
+
 air_keyboard/
 
 │
+
 ├── main.py 
+
 
 ├── keyboard_layout.py  
 
+
 ├── gesture_utils.py 
 
+
 ├── requirements.txt 
+
 
 └── README.md              
 
 ## Installation
+
 1️⃣ Create virtual environment
+
 python -m venv venv
+
 venv\Scripts\activate
 
 2️⃣ Install requirements
+
 pip install -r requirements.txt
 
 ▶️ Run the project
+
 python main.py
 
 ## Screenshots
+
 <img width="799" height="632" alt="Screenshot 2025-11-18 205634" src="https://github.com/user-attachments/assets/45f107e2-3160-4da0-b0d9-9312670e3f57" />
 
 
