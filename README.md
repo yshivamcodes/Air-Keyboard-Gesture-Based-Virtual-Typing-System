@@ -34,11 +34,15 @@ Pressed key is rendered and text appears above keyboard
 ## Project Structure
 air_keyboard/
 │
-├── main.py                # Main application logic
-├── keyboard_layout.py     # Full QWERTY layout generator
-├── gesture_utils.py       # Pinch detection & gesture logic
-├── requirements.txt       # Dependencies
-└── README.md              # Documentation
+├── main.py 
+
+├── keyboard_layout.py  
+
+├── gesture_utils.py 
+
+├── requirements.txt 
+
+└── README.md              
 
 ## Installation
 1️⃣ Create virtual environment
