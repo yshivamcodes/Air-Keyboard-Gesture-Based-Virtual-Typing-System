@@ -84,3 +84,31 @@ Dark/light themes
 Gesture shortcuts (Ctrl+C, Ctrl+V)
 
 VR/AR integration.
+
+---
+
+### 📝 License
+This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details. 
+
+
+---
+
+### 📫 Contact
+**Shivam Yadav**  
+For queries, collaborations, or suggestions:  
+📧 Email: *shivamyraj24@gmail.com*  
+🔗 GitHub: https://github.com/your-yshivamcodes
+
+---
+
+### 🌟 Support the Project
+If you found this helpful, consider giving the repository a **star ⭐**  
+It helps others discover the project and motivates future improvements.
+
+---
+
+<div align="center">
+  
+**Made with ❤️ using Python & Computer Vision**  
+</div>
+
