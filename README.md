@@ -33,6 +33,7 @@ Pressed key is rendered and text appears above keyboard
 
 ## Project Structure
 air_keyboard/
+
 │
 ├── main.py 
 
